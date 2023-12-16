@@ -22,3 +22,6 @@
 In 2020, word about me and my work reached some people, leading me to create videos for clients. Over time, I created my first international short film, blending live-action and animated elements. Garnering awards and nominations, I chose to step into the background actor role, gaining insights into larger-scale film productions. 
 
 Subsequently, I became an Animation/Film instructor for a kids' camp, held annually for one week. Currently, I'm gaining valuable experience as an intern in Berlin with Erasmus+. During this period, I'm also preparing a new music video. To see more, [click](https://github.com/BenjaminHaverla/Portfolio.git) without hesitation.
+
+# Contact me:
+## **Mail**: haverla.tros@gmail.com
