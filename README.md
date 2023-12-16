@@ -1,6 +1,6 @@
 # About my featured projects
 
-![text description](Images/Team.png)
+![text description](Images/Mobilfest_awards.jpg)
 
 - "We want to live!" (I was 14 years old) –> I entered my first animated LEGO short film into a Bratislava Slovak competition. We were awarded with 3rd place. I believe that we won thanks to the cooperation of my friends.
   
