@@ -1,7 +1,7 @@
 # About my featured projects
 ![text description](Images/Mobilfest_awards.jpg)
 
-- **"We want to live!"** (I was 14 years old) –> I entered my first animated LEGO short film into a Bratislava Slovak competition. We were awarded with 3rd place. I believe that we won thanks to the cooperation of my friends.
+- [**"We want to live!"**](https://www.youtube.com/watch?v=3V1NKcxF2OI) (I was 14 years old) –> I entered my first animated LEGO short film into a Bratislava Slovak competition. We were awarded with 3rd place. I believe that we won thanks to the cooperation of my friends.
   
 - **"World of Plastic"** (I was 15 years old) –> Animated LEGO short film. We were awarded 1st place in the Bratislava Slovak competition.
 
